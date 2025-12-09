@@ -1,0 +1,38 @@
+Author	Mayer, Rudolf
+Date	1915
+Short Title	World War I Map (German), Nr. 1. Military Events ... to September 1914.
+Publisher	Der Kriegshilfe Munchen N.W (War Help)
+Publisher Location	Munchen
+Type	Atlas Map
+Obj Height cm	36
+Obj Width cm	63
+Note	A contemporaneous World War I seven volume German work, consisting of 226 weekly maps (typically each map sheet is subdivided into several parts) and textual progress reports describing the various war fronts. The maps and texts describing the Theaters of War include: Oceans and Colonies; Turkish-Russian (Holy War); Serbia; Western Front; Eastern Front. There also is a weekly update of political news. In the liners of volumes 1 though 5 there are calls to arms (text of speeches) by Emperor Franz Joseph and Emperor Kaiser Wilhelm II; noticeably absent in the final two volumes. Dates are weekly from the beginning of September 1914 through February 12, 1919. Seven maroon cloth covered volumes with gilt lettering and black border. All sheets double-sided - predominantly maps on front side, mostly text on verso; they are scanned as two images. Most maps in color. Show battle lines, towns, cities, roads, railroads, rivers, canals, political divisions. Town and city names color coded to show which army controls them. Reproduction is prohibited. D.R.O.M. all rights reserved. Published and distributed by (Kriegshilfe) War Help Office, Munchen. Co-distribution by Hilfsbund, Berlin. Sales in Austria-Hungary the Kriegsfursorgeamt, Vienna.
+Country	Germany
+Country	France
+Country	Belgium
+Country	Netherlands
+Region	Europe, Central
+Event	World War I
+Full Title	Kriegs-Karte. Nr. 1. Die militaerischen Ereignisse ... bis September 1914. (War Map, Nr. 1. Military Events ... to September 1914).
+List No	7821.004
+Series No	4
+Publication Author	Mayer, Rudolf
+Pub Date	1919
+Pub Title	Die Militarischen Ereignisse im Volkerkrieg 1914-1919 in wochentlichen Karten mit Chronik zu dauernder Erinnerung von der Kriegshilfe Muchen N.W. dem Kriegsfuersorgeamt Wien Ueberlassen. (Military Events in the People's War, 1914-1919, in Weekly Maps for Everlasting Memory provided to the War Welfare Department Vienna by the War Welfare Department Munich N.W.).
+Pub Note	A contemporaneous World War I seven volume German work, consisting of 226 weekly maps (typically each map sheet is subdivided into several parts) and textual progress reports describing the various war fronts. The maps and texts describing the Theaters of War include: Oceans and Colonies; Turkish-Russian (Holy War); Serbia; Western Front; Eastern Front. There also is a weekly update of political news. In the liners of volumes 1 though 5 there are calls to arms (text of speeches) by Emperor Franz Joseph and Emperor Kaiser Wilhelm II; noticeably absent in the final two volumes. Dates are weekly from the beginning of September 1914 through February 12, 1919. Seven maroon cloth covered volumes with gilt lettering and black border. All sheets double-sided - predominantly maps on front side, mostly text on verso; they are scanned as two images. Most maps in color. Show battle lines, towns, cities, roads, railroads, rivers, canals, political divisions. Town and city names color coded to show which army controls them. Reproduction is prohibited. D.R.O.M. all rights reserved. Published and distributed by (Kriegshilfe) War Help Office, Munchen. Co-distribution by Hilfsbund, Berlin. Sales in Austria-Hungary the Kriegsfursorgeamt, Vienna.
+Pub List No	7821.000
+Pub Type	Military Atlas
+Pub Maps	226
+Pub Height cm	36
+Pub Width cm	25
+Image No	7821004
+Download 1	<a href=https://www.davidrumsey.com/rumsey/download.pl?image=/D5005/7821004.sid target=_blank>Full Image Download in MrSID Format</a>
+Download 2	<a href="https://www.extensis.com/support/geoviewer-9" target="_blank">GeoViewer for JP2 and SID files</a>
+Authors	Mayer, Rudolf
+AI-Generated Summary	This work is titled "Kriegs-Karte. Nr. 1. Die militaerischen Ereignisse ... bis September 1914," created by Rudolf Mayer in 1915. It is part of a seven-volume German atlas series that documents World War I events through 226 weekly maps and textual reports. The work measures 63 cm in width and 36 cm in height.<br><br>Composition and Medium:<br>
+The map is a color lithograph, typical of early 20th-century cartographic techniques, facilitating mass reproduction while maintaining clarity and detail. The paper is likely of a heavier stock to withstand handling and annotation.<br><br>Style and Layout:<br>
+The map is divided into multiple sections, each representing different war theaters: the Western Front, Eastern Front, and regions such as Alsace-Lorraine and Serbia-Montenegro. The Western Front covers areas from the North Sea to the Swiss border, while the Eastern Front extends from the Baltic Sea to the Carpathians. Smaller inset maps highlight specific regions of military importance.<br><br>Subject Matter:<br>
+This is a military map detailing the early stages of World War I until September 1914. Key features include:<br><br>- Battle Lines: Red and blue lines indicate the positions of opposing forces. Red represents German-controlled areas, while blue denotes Allied-controlled regions (mainly French and British).<br><br>- Cities and Towns: Major cities such as Paris, London, Berlin, and Vienna are marked, providing geographic context. Town names are color-coded to indicate the controlling army.<br><br>- Transport and Infrastructure: Railroads, roads, and rivers are depicted, underscoring their importance for troop movements and supply lines.<br><br>Cultural and Historical Context:<br>
+Created during World War I, the map reflects the conflict's complexity and the importance of geographic knowledge in wartime strategy. It was published by the Kriegshilfe (War Help) Office in Munich, highlighting its role as both an informational tool and propaganda piece. The atlas served not only military personnel but also informed the public and supported nationalistic sentiments.<br><br>Significant Features:<br>
+- Inscriptions: Explanatory notes provide clarity on map symbols, such as battle lines, troop positions, and neutral states. The legend is crucial for understanding the dynamic front lines and territorial changes.<br><br>- Political Divisions: The map illustrates the pre-war political boundaries, emphasizing the extensive reach of the conflict across Europe.<br><br>- Propaganda Element: The map includes calls to support the war effort, urging civilians to contribute to the Kriegs-Hilfe (War Help).<br><br>Publication Details:<br>
+This work is part of a series distributed by the War Help Office, Munich, with co-distribution in Berlin and Vienna. It is cataloged under Pub List No 7821.000 and List No 7821.004, indicating its place within the broader collection.<br><br>In summary, this map is a detailed and strategic portrayal of World War I's early military theaters, serving both informational and propagandistic purposes. It captures the geopolitical landscape of Europe during a pivotal moment in history, providing insights into military strategies and national sentiments of the time.
